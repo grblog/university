@@ -130,6 +130,7 @@
 | 121 | 浙大城市学院 |   | 软件工程，安卓。。java 高级， 物联网等 <br> https://acc15t4bm5.feishu.cn/docs/doccn3vt2AgpwyAWgVlDCULm1sh |
 | 122 | 南京信息工程大学 |   | 操作系统课程笔记 和 汇编语言课程笔记 <br> https://docs.pil0txia.com/ <br> https://github.com/Pil0tXia/docs |
 | 123 | 成都信息工程大学 |   | 课程资料共享计划 <br> https://github.com/ooyq/cuit-course |
+| 124 | 哈尔滨工程大学 | 世界一流学科<br>211 | 课程攻略共享计划 <br> [https://github.com/HEUOpenResource/heu-icicles](https://github.com/HEUOpenResource/heu-icicles) |
 | ☆ | 很多大学 | 考研 | 计算机考研和软件工程考研专业的各个学校考研真题 <br> https://github.com/csseky/cskaoyan <br> 计算机408专业课分学科整理 <br> https://github.com/mmdapl/408CSFamily <br> https://mmdapl.github.io/408CSFamily/ <br> CSPostgraduate 计算机考研 408 专业课资料及真题资源 <br> https://github.com/CodePanda66/CSPostgraduate-408 <br> 备考2021年研究生-408 <br> https://github.com/hao14293/2021-Postgraduate-408 |
 | ☆ | 国外高校 | 美国著名大学 | 计算机科学课程列表 <br> https://github.com/prakhar1989/awesome-courses |
 | ☆ | ☆☆☆☆☆ | 各种学习资源 | 精选夸克网盘资源 <br> https://docs.qq.com/sheet/DRnVKY3hNQ0ttc1pp?tab=BB08JA |  
